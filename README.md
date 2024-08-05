@@ -37,3 +37,6 @@ This project converts images into ASCII art using a MATLAB script. It takes an i
 Turning a portrait into ASCII characters is a form of digital art where an image is represented using a combination of ASCII characters. It’s a fun and educational way to explore image processing techniques, and it’s also a great example of how to use MATLAB for creative projects. This project can serve as a stepping stone for more advanced image processing tasks. Plus, it’s a great conversation starter!
 
 Don’t hesitate to reach out if you have any questions or need me to do a live script/notebook explaining every line of the code. Just don't blame me if you end up addicted to turning random images into ASCII!
+
+## Viewing Tip
+To fully appreciate the effect of the ASCII art, it's recommended to zoom out of the text file to the most zoomed-out scale (preferrably on Notepad (Windows)).
