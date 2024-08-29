@@ -14,7 +14,7 @@ This project converts images into ASCII art using a MATLAB script. It takes an i
 
 1. **Clone the repository:**
 - Navigate to the repository directory
-- Open the MATLAB script (image_to_ascii.m) in MATLAB.
+- Open the MATLAB script (ascii.m) in MATLAB.
 
 #### Run the script and follow the prompts:
 
